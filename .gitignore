@@ -6,3 +6,4 @@ apps/api/.env
 apps/api/.env.local
 __pycache__/
 .venv/
+.vercel
